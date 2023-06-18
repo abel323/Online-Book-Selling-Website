@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.details_view {
+    margin: 20px 20px 20px 20px;
+    padding: 10px 10px 10px 10px;
+}
+
+.img_view_detail {
+    display: float;
+    float: left;
+    margin: 20px 20px 20px 20px;
+}
+
+.details {
+    display: float;
+    float: left;
+}
+
+footer {
+    clear: both;
+    margin-top: auto;
+    margin: 20px 20px 20px;
+}
